@@ -1,0 +1,86 @@
+site_name: Bo Wu' homepage
+
+theme:
+  name: 'material'
+  palette:
+    primary: 'deep purple'
+    accent: 'deep purple'
+    logo: 'images/logo.svg'
+  
+  language: 'en'
+ 
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+
+  feature:
+    tabs: true
+
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: false
+  - toc:
+      permalink: true
+  - footnotes
+  - meta
+  - def_list
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_png
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde
+
+
+extra_javascript:
+    - 'javascripts/extra.js'
+    - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+
+# Customization
+plugins:
+  - search:
+      separator: '[\s\-\.]+'
+      lang:
+        - en
+        - de
+        - ru
+
+extra:
+  social:
+    - icon: fontawesome/brands/google
+      link: https://scholar.google.com/citations?user=M_sSZcUAAAAJ&hl=zh-CN
+      name: Google Scholar
+
+    - icon: material/chart-bar
+      link: https://publons.com/researcher/2857317/bo-wu/
+      name: Publons
+
+  search:
+    language: 'en'
+nav:
+  - Home: 'index.md'
+  - 中文: 'chinese.md'
+  - Publicaiton list: 'publication_list.md'
+  - Air-sea interactions: 
+       - WNPAC: 'wnpac.md'
+       - ENSO: 'enso.md'
+  - Climate prediction:
+       - Initializaiton: 'Initializaiton.md' 
+
