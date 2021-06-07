@@ -82,5 +82,5 @@ nav:
        - WNPAC: 'wnpac.md'
        - ENSO: 'enso.md'
   - Climate prediction:
-       - Initializaiton: 'Initializaiton.md' 
+       - Initialization: 'Initialization.md' 
 
