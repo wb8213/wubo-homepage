@@ -1,4 +1,4 @@
-# Initializaiton scheme
+# Initialization scheme
 
 ## * EnOI-IAU scheme
 <div align=center><img src="../images/EnOI-IAU.png" width="100%" height="100%"></div>
