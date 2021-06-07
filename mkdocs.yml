@@ -77,7 +77,7 @@ extra:
 nav:
   - Home: 'index.md'
   - 中文: 'chinese.md'
-  - Publicaiton list: 'publication_list.md'
+  - Publication list: 'publication_list.md'
   - Air-sea interactions: 
        - WNPAC: 'wnpac.md'
        - ENSO: 'enso.md'
