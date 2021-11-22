@@ -1,7 +1,9 @@
 #Bo Wu's publication
 
 ##2021
-* An, X., __B. Wu*__ , T. Zhou, B. Liu, 2021: Atlantic multidecadal oscillation drives interdecadal Pacific variability via tropical atmospheric bridge, Journal of Climate, in press.
+* Yan, Z., __B. Wu*__, T. Li, G. Tan, 2021: Mechanisms determining diversity of ENSO-driven equatorial precipitation anomalies, Journal of Climate, In press  
+* An, X., __B. Wu*__, T. Zhou, B. Liu, 2021: Atlantic multidecadal oscillation drives interdecadal Pacific variability via tropical atmospheric bridge, Journal of Climate, 34(13), 5543-5553
+* Jiang, J, T. Zhou, X. Chen,  __B. Wu__, 2021: Central Asian Precipitation Shaped by the Tropical Pacific Decadal Variability and the Atlantic Multidecadal Variability, Journal of Climate 34 (18), 7541-7553
 * Man, W., M. Zuo, T. Zhou, J. T. Fasullo, I. Bethke, X. Chen, L. Zou, __B. Wu__, 2021: Potential influences of volcanic eruptions on future global land monsoon precipitation changes, Earth's Future, 9(3), e2020EF001803
 * Hu, S. T. Zhou, __B. Wu__, 2021: Impact of Developing ENSO on Tibetan Plateau Summer Rainfall, Journal of Climate, 34(9), 3385-3400
 
