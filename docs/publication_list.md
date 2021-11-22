@@ -1,7 +1,12 @@
 #Bo Wu's publication
 
+##2022
+* Yan, Z., __B. Wu*__, T. Li, G. Tan, 2022: Mechanisms determining diversity of ENSO-driven equatorial precipitation anomalies, Journal of Climate, In press  
+* Guo, Z., T. Zhou, M. Wang, B. Yang, __B. Wu__, 2022: The role of Tibetan summer low clouds in the simulation of the East Asian Summer Monsoon rain belt, International Journal of Climatology, In press
+
+
 ##2021
-* Yan, Z., __B. Wu*__, T. Li, G. Tan, 2021: Mechanisms determining diversity of ENSO-driven equatorial precipitation anomalies, Journal of Climate, In press  
+* Wu, M., T. Zhou, C. Li, H. Li, X. Chen, __B. Wu__, W. Zhang, L. Zhang, 2021: A very likely weakening of Pacific Walker Circulation in constrained near-future projections, Nature Communications 12(1), 1-8
 * An, X., __B. Wu*__, T. Zhou, B. Liu, 2021: Atlantic multidecadal oscillation drives interdecadal Pacific variability via tropical atmospheric bridge, Journal of Climate, 34(13), 5543-5553
 * Jiang, J, T. Zhou, X. Chen,  __B. Wu__, 2021: Central Asian Precipitation Shaped by the Tropical Pacific Decadal Variability and the Atlantic Multidecadal Variability, Journal of Climate 34 (18), 7541-7553
 * Man, W., M. Zuo, T. Zhou, J. T. Fasullo, I. Bethke, X. Chen, L. Zou, __B. Wu__, 2021: Potential influences of volcanic eruptions on future global land monsoon precipitation changes, Earth's Future, 9(3), e2020EF001803

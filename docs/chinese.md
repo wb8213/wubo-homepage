@@ -17,6 +17,6 @@
 * E-mail: wubo@mail.iap.ac.cn
 
 ## 新发表论文
-An, X., __B. Wu*__ , T. Zhou, B. Liu, 2021: Atlantic multidecadal oscillation drives interdecadal Pacific variability via tropical atmospheric bridge, Journal of Climate, in press.
+Yan, Z., __B. Wu*__, T. Li, G. Tan, 2022: Mechanisms determining diversity of ENSO-driven equatorial precipitation anomalies, Journal of Climate, In press
 
 
